@@ -1,6 +1,6 @@
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
-#### fish-plugin-xr
+#### xr
 > A plugin for [Oh My Fish][omf-link].
 
 This is a thin wrapper around the
@@ -16,14 +16,14 @@ This is a thin wrapper around the
 ## Install
 
 ```fish
-$ omf install fish-plugin-xr
+$ omf install xr
 ```
 
 
 ## Usage
 
 ```fish
-$ fish-plugin-xr
+$ xr help
 ```
 
 
@@ -34,7 +34,7 @@ $ fish-plugin-xr
 
 [mit]:            https://opensource.org/licenses/MIT
 [author]:         https://github.com/glennj
-[contributors]:   https://github.com/glennj/plugin-fish-plugin-xr/graphs/contributors
+[contributors]:   https://github.com/glennj/fish-plugin-xr/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
