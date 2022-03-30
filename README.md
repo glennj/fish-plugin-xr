@@ -16,7 +16,7 @@ This is a thin wrapper around the
 ## Install
 
 ```fish
-$ omf install xr
+$ omf install https://github.com/glennj/fish-plugin-xr
 ```
 
 
